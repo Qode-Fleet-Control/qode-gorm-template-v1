@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Qode-Platform/qode-gorm-template-v1/store"
+	"github.com/Qode-Fleet-Control/qode-gorm-template-v1/store"
 )
 
 func main() {
